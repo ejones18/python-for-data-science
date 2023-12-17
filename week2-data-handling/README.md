@@ -1,6 +1,6 @@
 # Python for Data Science - Week 2 Data Handling : Initial reading
 
-This file will explore a handful of topics that will be introduced in this week's homework. Please take soem time to look over the content of this file as it will be a huge help when working through the notebooks. There is also a wiki file that contains a brief description of all the functions used in the homework notebooks to help you further understand. Good luck!
+This file will explore a handful of topics that will be introduced in this week's homework. Please take some time to look over the content of this file as it will be a huge help when working through the notebooks. There is also a wiki file that contains a brief description of all the functions used in the homework notebooks to help you further understand. Good luck!
 
 ## Lambda functions in Python
 
