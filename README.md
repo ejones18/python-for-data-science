@@ -28,7 +28,7 @@ In addition to the core material, this repository also contains optional homewor
 
 ## Getting Started
 
-To get started with the course, clone this repository to your local machine. You can then navigate to the session folders to access the course materials. The homework notebooks are located in the 'Homework' folder.
+To get started with the course, clone this repository to your local machine. You can then navigate to the session folders to access the course materials.
 
 ```bash
 git clone https://github.com/ejones18/python-for-data-science.git
